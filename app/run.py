@@ -54,7 +54,6 @@ def index():
     top_words_names = list(top_words.index)
 
     # create visuals
-    # modify to create your own visuals
     graphs = [
         {
             'data': [
